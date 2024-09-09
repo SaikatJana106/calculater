@@ -63,6 +63,7 @@ const Calculator = () => {
 
     return (
         <>
+        <h1>Calcletor </h1>
             <div className="calculator">
                 <p className="calculator-display">{display}</p> {/* Display section */}
                 <div className="calculator-grid">
